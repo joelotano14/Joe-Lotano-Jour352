@@ -1,0 +1,72 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+/*I THINK THE ISSUE WITH THE MASTHEAD IS AROUND HER SOMEWHERE POSSIBLY*/
+#title {
+  text-transform: uppercase;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.75em;
+  font-weight: 550;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#subhead {
+  font-size: 1.25em;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+figcaption{
+  font-style: italic;
+  font-size: 10px;
+  font-family: Helvetica, sans-serif;
+  width: 900px;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 12px;
+}
+
+.subsection {
+  font-size: 1.5em;
+  font-weight: 800;
+  text-align: left;
+}
+
+blockquote {
+  font-size: 30px;
+  font-weight: 550;
+  color: #ff99ce;
+  text-align: center;
+}
+
+.links {
+  list-style-type: none;
+  display: inline;
+}
