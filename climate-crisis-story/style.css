@@ -1,0 +1,112 @@
+#content{
+  margin: 0 auto;
+  width: 900px;
+}
+
+#headline {
+  font-family: Optima, sans-serif;
+  font-size: 3em;
+  font-weight: 550;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: -10px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#subhead {
+  font-size: 1.25em;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 12px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+p {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+}
+
+#section {
+  font-family: Optima, sans-serif;
+  font-size: 2em;
+  font-weight: 800;
+  text-align: left;
+  color: #ff773d;
+}
+
+#blockquote {
+  font-size: 30px;
+  font-weight: 550;
+  text-align: center;
+}
+
+#blockquote2 {
+  font-size: 30px;
+  font-weight: 550;
+  text-align: center;
+}
+
+#bqcred {
+  font-style: italic;
+  font-size: 15px;
+  font-weight: 550;
+  text-align: right;
+  margin-top: 0;
+  margin-bottom: 15px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#bqcred2 {
+  font-style: italic;
+  font-size: 15px;
+  font-weight: 550;
+  text-indent: 450px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.column {
+  float: right;
+  width: 50%;
+  padding: 5px;
+}
+
+footnote {
+  font-style: italic;
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 12px;
+}
+
+caption {
+  font-family: Helvetica, sans-serif;
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 12px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+}
