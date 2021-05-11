@@ -1,0 +1,101 @@
+#content{
+  margin: 0 auto;
+  width: 900px;
+}
+
+#headline {
+  font-family: Optima, sans-serif;
+  font-size: 2.5em;
+  font-weight: 550;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#subhead {
+  font-size: 1.25em;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 12px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+p {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+}
+
+#section {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 1em;
+  font-weight: 800;
+  text-align: left;
+  color: black;
+}
+
+.image1 {
+  float: left;
+  font-style: italic;
+  font-size: 10px;
+  font-family: Helvetica, sans-serif;
+  width: 400px;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-right: 5px;
+  margin-left: auto;
+}
+
+.image2 {
+  float: right;
+  font-style: italic;
+  font-size: 10px;
+  font-family: Helvetica, sans-serif;
+  width: 400px;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-left: 5px;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 10px;
+  font-family: Helvetica, sans-serif;
+  width: 900px;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+blockquote {
+  font-size: 30px;
+  font-weight: 1000;
+  color: black;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+}
